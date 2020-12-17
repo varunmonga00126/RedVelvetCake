@@ -7,4 +7,8 @@
     * Intem2a
     * Item2b
 
+[See Ingredients](ingredients.md)
+[See Recipe](recipe.md)
+
+
 > Happy Cooking!
